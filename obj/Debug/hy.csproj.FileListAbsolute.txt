@@ -1,0 +1,15 @@
+D:\TestNatSam\hy\bin\Debug\hy.exe.config
+D:\TestNatSam\hy\bin\Debug\hy.exe
+D:\TestNatSam\hy\bin\Debug\hy.pdb
+D:\TestNatSam\hy\obj\Debug\hy.csproj.AssemblyReference.cache
+D:\TestNatSam\hy\obj\Debug\MainWindow.g.cs
+D:\TestNatSam\hy\obj\Debug\App.g.cs
+D:\TestNatSam\hy\obj\Debug\hy_MarkupCompile.cache
+D:\TestNatSam\hy\obj\Debug\hy_MarkupCompile.lref
+D:\TestNatSam\hy\obj\Debug\MainWindow.baml
+D:\TestNatSam\hy\obj\Debug\hy.g.resources
+D:\TestNatSam\hy\obj\Debug\hy.Properties.Resources.resources
+D:\TestNatSam\hy\obj\Debug\hy.csproj.GenerateResource.cache
+D:\TestNatSam\hy\obj\Debug\hy.csproj.CoreCompileInputs.cache
+D:\TestNatSam\hy\obj\Debug\hy.exe
+D:\TestNatSam\hy\obj\Debug\hy.pdb
